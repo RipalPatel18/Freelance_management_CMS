@@ -1,45 +1,36 @@
-Simple Services Management CMS (PHP & MySQL)
+# Freelance Management Service using PHP_CMS
 
-This project is a basic PHP & MySQL Services CMS.
-It includes a small admin panel to manage services and a simple frontend website that displays them.
-The main goal is to understand how a minimal CMS works and how PHP interacts with a MySQL database.
+- This is a PHP and MySQL project that provides a simple CMS to manage services.
+- It includes a basic admin panel and a minimal frontend that displays data dynamically.
 
-⭐ Features
+# Features
 
-Simple admin panel for managing services (CRUD)
+Simple Services CRUD (Create, Read, Update, Delete)
 
-Dynamic services page that loads data from MySQL
+PHP connected to MySQL database
 
-Clean and minimal frontend layout
+Dynamic services page on the frontend
 
-Built using Bootstrap for responsive design
+Basic Bootstrap layout for responsiveness
 
-🛠 Technologies Used
+Technologies Used
 
 PHP
 
 MySQL
 
-Bootstrap 5
+HTML
 
-HTML5 & CSS3
+CSS
 
-🎯 Project Goal
+Bootstrap
 
-To learn how to:
-
-Build a small CMS using PHP
-
-Perform CRUD operations using MySQL
-
-Display database content dynamically on the frontend
-
-Organize a simple PHP project structure
-
-📂 Pages Included
+Pages Included
 
 Home Page
 
-Services Page (dynamic)
+Services Page (Dynamic)
 
 Contact Page
+
+Admin Services Pages (Add, Edit, Delete, View)
