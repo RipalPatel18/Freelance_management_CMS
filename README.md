@@ -5,32 +5,20 @@
 
 # Features
 
-Simple Services CRUD (Create, Read, Update, Delete)
+- Simple Services CRUD (Create, Read, Update, Delete)
+- PHP connected to MySQL database
+- Dynamic services page on the frontend
+- Basic Bootstrap layout for responsiveness
 
-PHP connected to MySQL database
-
-Dynamic services page on the frontend
-
-Basic Bootstrap layout for responsiveness
-
-Technologies Used
-
-PHP
-
-MySQL
-
-HTML
-
-CSS
-
-Bootstrap
+# Technologies Used
+- PHP
+- MySQL
+- HTML
+- CSS
+- Bootstrap
 
 Pages Included
-
-Home Page
-
-Services Page (Dynamic)
-
-Contact Page
-
-Admin Services Pages (Add, Edit, Delete, View)
+- Home Page
+- Services Page (Dynamic)
+- Contact Page
+- Admin Services Pages (Add, Edit, Delete, View)
