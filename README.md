@@ -17,7 +17,7 @@
 - CSS
 - Bootstrap
 
-Pages Included
+# Pages Included
 - Home Page
 - Services Page (Dynamic)
 - Contact Page
