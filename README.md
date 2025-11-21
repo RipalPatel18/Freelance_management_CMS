@@ -17,12 +17,5 @@
 - CSS
 - Bootstrap
 
-# Pages Included
-- Home Page
-- Services Page (Dynamic)
-- Contact Page
-- Admin Pages:
-    - Add Service
-    - Edit Service
-    - Delete Service
-    - View All Services
+# Demo
+
