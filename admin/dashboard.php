@@ -4,14 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Admin</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  
 </head>
 <body>
   <?php include('../includes/admin_header.php'); ?>
+  <div class="container mt-4">
   <h1>Welcome Admin!</h1>
   
-  <a href="add_client.php">
-      Add Client
-  </a>
+ <a href="add_client.php" class="btn btn-success mb-3">Add Client</a>
+
 
   <?php
 
@@ -52,7 +55,9 @@
             };
         ?>
 
-  
+  </div>
   <?php include('../includes/admin_footer.php'); ?>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>
